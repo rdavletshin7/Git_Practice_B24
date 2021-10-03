@@ -7,6 +7,8 @@ public class Third {
 
         //second line
 
+        System.out.println("5");
+
 
     }
 }
